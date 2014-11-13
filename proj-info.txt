@@ -1,0 +1,5 @@
+:name:chorebox-keepawake-specs:
+:vrsn:0.1:
+:phase:b:
+:year:2014:
+:holder:Sophia Elizabeth Shapira
